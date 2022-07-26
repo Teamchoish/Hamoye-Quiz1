@@ -1,0 +1,2 @@
+# Hamoye-Quiz1
+Quiz on Introduction to Python for Machine Learning, Had some issues locating the datasets on Time had to cancle the quiz so i can properly download and start using the file, I thought the test was in Two batches only to find out I will be answering the 20 questions at a go. I hope i would be consider won't repeat thesame mistake, bur was till able to work of the part two of the project. Thank you
